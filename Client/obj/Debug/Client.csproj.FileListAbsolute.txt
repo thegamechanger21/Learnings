@@ -1,0 +1,14 @@
+C:\Users\MEGAMIND\Desktop\Remote\Client\bin\Debug\Client.exe
+C:\Users\MEGAMIND\Desktop\Remote\Client\bin\Debug\Client.pdb
+C:\Users\MEGAMIND\Desktop\Remote\Client\bin\Debug\NXOpen.dll
+C:\Users\MEGAMIND\Desktop\Remote\Client\bin\Debug\NXOpen.UF.dll
+C:\Users\MEGAMIND\Desktop\Remote\Client\bin\Debug\NXOpen.Utilities.dll
+C:\Users\MEGAMIND\Desktop\Remote\Client\bin\Debug\NXOpenUI.dll
+C:\Users\MEGAMIND\Desktop\Remote\Client\bin\Debug\NXOpen.xml
+C:\Users\MEGAMIND\Desktop\Remote\Client\bin\Debug\NXOpen.UF.xml
+C:\Users\MEGAMIND\Desktop\Remote\Client\bin\Debug\NXOpen.Utilities.xml
+C:\Users\MEGAMIND\Desktop\Remote\Client\bin\Debug\NXOpenUI.xml
+C:\Users\MEGAMIND\Desktop\Remote\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\MEGAMIND\Desktop\Remote\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\MEGAMIND\Desktop\Remote\Client\obj\Debug\Client.exe
+C:\Users\MEGAMIND\Desktop\Remote\Client\obj\Debug\Client.pdb

@@ -1,0 +1,14 @@
+C:\Users\MEGAMIND\Desktop\Remote\Server\bin\Debug\Server.dll
+C:\Users\MEGAMIND\Desktop\Remote\Server\bin\Debug\Server.pdb
+C:\Users\MEGAMIND\Desktop\Remote\Server\bin\Debug\NXOpen.dll
+C:\Users\MEGAMIND\Desktop\Remote\Server\bin\Debug\NXOpen.UF.dll
+C:\Users\MEGAMIND\Desktop\Remote\Server\bin\Debug\NXOpen.Utilities.dll
+C:\Users\MEGAMIND\Desktop\Remote\Server\bin\Debug\NXOpenUI.dll
+C:\Users\MEGAMIND\Desktop\Remote\Server\bin\Debug\NXOpen.xml
+C:\Users\MEGAMIND\Desktop\Remote\Server\bin\Debug\NXOpen.UF.xml
+C:\Users\MEGAMIND\Desktop\Remote\Server\bin\Debug\NXOpen.Utilities.xml
+C:\Users\MEGAMIND\Desktop\Remote\Server\bin\Debug\NXOpenUI.xml
+C:\Users\MEGAMIND\Desktop\Remote\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\MEGAMIND\Desktop\Remote\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\MEGAMIND\Desktop\Remote\Server\obj\Debug\Server.dll
+C:\Users\MEGAMIND\Desktop\Remote\Server\obj\Debug\Server.pdb
