@@ -120,3 +120,5 @@ Notes
     2. The server can be shutdown by using the File->Utilities->Unload Shared Images functionality.
 
     3. After the server is shutdown, you can start up the server again by using the "Execute NXOpen" dialog.
+
+Suresh Bhumre
